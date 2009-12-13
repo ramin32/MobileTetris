@@ -8,7 +8,6 @@ import java.util.Random;
  * Data structure that contains a vector of cells to form a shape.
  *
  * @author Ramin Rakhamimov
- * @author Jonathan Weinblatt
  */
 
 public class Shape 

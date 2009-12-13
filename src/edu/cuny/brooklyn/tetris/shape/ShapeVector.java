@@ -7,7 +7,6 @@ import edu.cuny.brooklyn.tetris.grid.Point;
  * Contains constant shape vectors.
  *
  * @author Ramin Rakhamimov
- * @author Jonathan Weinblatt
  * @see Shape
  */
 

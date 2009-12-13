@@ -4,7 +4,6 @@ package edu.cuny.brooklyn.tetris.grid;
  * Same as java.awt.Point
  *
  * @author Ramin Rakhamimov
- * @author Jonathan Weinblatt
  * @see Shape
  */
 public class Point {

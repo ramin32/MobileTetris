@@ -15,7 +15,6 @@ import javax.microedition.lcdui.Graphics;
  * within the grid.
  *
  * @author Ramin Rakhamimov
- * @author Jonathan Weinblatt
  * @see Shape
  */
 

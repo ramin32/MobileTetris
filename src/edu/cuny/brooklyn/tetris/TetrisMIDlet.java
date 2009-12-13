@@ -10,7 +10,6 @@ import javax.microedition.lcdui.*;
  * by J2ME
  *
  * @author Ramin Rakhamimov
- * @author Jonathan Weinblatt
  */
 public class TetrisMIDlet extends MIDlet implements CommandListener, Runnable
 {
